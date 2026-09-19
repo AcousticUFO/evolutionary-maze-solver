@@ -188,7 +188,7 @@ All benchmarks performed on Linux x86_64:
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/your-username/maze-runner.git
+git clone https://github.com/AcousticUFO/maze-runner.git
 cd maze-runner
 pip install -r requirements.txt
 ```
