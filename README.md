@@ -279,5 +279,5 @@ OK
 
 ## Author & License
 
-- **Author**: Camil Hery (ICE28)
+- **Author**: Camil Hery
 - **License**: Released under the [MIT License](LICENSE).
