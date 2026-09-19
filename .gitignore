@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and local environments
+.cache/
+.config/
+.local/
+.gemini/
+.venv/
+venv/
+env/
+ENV/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated plot images and output artifacts
+*.png
+dashboard_*.png
+rapport_final_*.png
+
+# School project legacy documentation / non-code assets
+Documents/
+*.pdf
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
